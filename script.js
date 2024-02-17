@@ -9,6 +9,7 @@ const allQuotes = [
   'Well begun is half done!',
   'Just a step away, keep going!',
   'Whoa! You just completed all the goals, time for chill'
+  'Great Job!'
 ]
 // const allGoals = JSON.parse (localStorage.getItem('allGoals')) || {
   // first:{
